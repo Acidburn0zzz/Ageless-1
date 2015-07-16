@@ -1,0 +1,17 @@
+{
+  "name": "ageless",
+  "title": "Ageless",
+  "id": "2341n4m3@gmail.com",
+  "description": "Watch age restricted YouTube videos without signing in",
+  "permissions": {"private-browsing": true},
+  "author": "Nick Diedrich",
+  "license": "MPL 2.0",
+  "version": "0.8",
+  "preferences": [{
+         "description": "Play videos opend with Ageless in HD if possible.",
+         "type": "bool",
+         "name": "hd",
+         "value": false,
+         "title": "HD"
+    }]
+}
